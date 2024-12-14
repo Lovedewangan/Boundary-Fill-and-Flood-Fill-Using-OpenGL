@@ -1,0 +1,5 @@
+﻿  Boundary Fill and Flood Fill.cpp
+C:\Users\ASUS\source\repos\hello\Boundary Fill and Flood Fill Algorithm for Circle\Boundary Fill and Flood Fill Algorithm for Circle\Boundary Fill and Flood Fill.cpp(59,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\ASUS\source\repos\hello\Boundary Fill and Flood Fill Algorithm for Circle\Boundary Fill and Flood Fill Algorithm for Circle\Boundary Fill and Flood Fill.cpp(68,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ASUS\source\repos\hello\Boundary Fill and Flood Fill Algorithm for Circle\Boundary Fill and Flood Fill Algorithm for Circle\Boundary Fill and Flood Fill.cpp(68,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Boundary Fill and Flood Fill Algorithm for Circle.vcxproj -> C:\Users\ASUS\source\repos\hello\Boundary Fill and Flood Fill Algorithm for Circle\x64\Debug\Boundary Fill and Flood Fill Algorithm for Circle.exe
